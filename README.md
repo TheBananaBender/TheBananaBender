@@ -1,16 +1,25 @@
-## Hi there 👋
-
-<!--
-**TheBananaBender/TheBananaBender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+name: Roy Dahan
+located_at: Tel-Aviv, Israel
+doing_now: Student at TAU
+currently_learning:
+[
+  "C and project design",
+  "Data Science",
+  "Computer Vision"
+]
+hobbies:
+[
+  "Playing guitar & hearing music",
+  "Reading",
+  "Writing code",
+  "History"
+]
+reach_me_at:[
+  "roeydahan@mail.tau.ac.il"
+  "roydahan4@gmail.com"
+]
+languages:[
+  "Hebrew - Native"
+  "English - fluent"
+  "German - intermediate"
+  ]
