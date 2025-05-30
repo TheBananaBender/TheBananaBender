@@ -1,4 +1,9 @@
+<a href="https://github.com/Ariel-Berant">
+  <img height=50, width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />        
+
+## About Me
 yaml
+
 {
   "name": "Roy Dahan",
   "currently_at": "Tel-Aviv, Israel",
