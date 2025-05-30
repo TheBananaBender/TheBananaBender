@@ -2,8 +2,7 @@
   <img height=50, width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />        
 
 ## About Me
-yaml
-
+```yaml
 {
   "name": "Roy Dahan",
   "currently_at": "Tel-Aviv, Israel",
@@ -14,12 +13,13 @@ yaml
     "Computer Vision"
   ],
   "hobbies": [
-    "Playing guitar & hearing music",
+    "Playing guitar & listening to music",
     "Reading",
     "Writing code",
-    "History"
+    "History,
+    "Weightlifting"
   ],
-  "reach_me_at": [
+  "I'm_available_at": [
     "roeydahan@mail.tau.ac.il",
     "roydahan4@gmail.com"
   ],
@@ -29,3 +29,5 @@ yaml
     "German - intermediate"
   ]
 }
+```
+
